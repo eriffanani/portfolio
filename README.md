@@ -1,3 +1,9 @@
+## E-Waktu Solat
+E-Waktu Solat adalah panduan waktu solat dari waktu subuh hingga waktu isyak berbasis website berdasarkan lokasi.</br></br>
+<img width="500" alt="Screenshot 2024-07-25 at 13 38 20" src="https://github.com/user-attachments/assets/6ea88efc-8ad5-46e7-80a4-84797f15a941">
+<img width="500" alt="Screenshot 2024-07-25 at 13 38 29" src="https://github.com/user-attachments/assets/8fd320c2-00e8-4fcd-8ba6-67eeca360c18">
+
+
 ## Xabiru
 Xabiru merupakan aplikasi konsultasi dan pembelajaran bagi orang tua yang memiliki anak berkebutuhan khusus.
 
