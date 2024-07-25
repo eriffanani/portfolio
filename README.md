@@ -1,7 +1,11 @@
+## Jam Solat TV Company Profile
+Company Profile untuk perusahaan Jam Solat TV yang berlokasi di Malaysia berbasis website dibangun dengan Design System (UI/UX, Figma).</br></br>
+<img width="805" alt="Screenshot 2024-07-25 at 13 36 57" src="https://github.com/user-attachments/assets/67b05e4d-a250-464c-a641-960f6485920d"></br>
+<img width="400" alt="Screenshot 2024-07-25 at 13 37 02" src="https://github.com/user-attachments/assets/73acf2f1-7bd6-4f0f-aa2a-771e0065b3bc"> <img width="400" alt="Screenshot 2024-07-25 at 13 37 21" src="https://github.com/user-attachments/assets/cdce908c-fa2e-4689-a75f-75c17c9b2949"> <img width="400" alt="Screenshot 2024-07-25 at 13 37 45" src="https://github.com/user-attachments/assets/7a5e580e-526d-4af9-b500-8c129c7c3f24"> <img width="400" alt="Screenshot 2024-07-25 at 13 37 38" src="https://github.com/user-attachments/assets/1233d060-2998-41ed-9b65-05f79d8b10c8">
+
 ## E-Waktu Solat
 E-Waktu Solat adalah panduan waktu solat dari waktu subuh hingga waktu isyak berbasis website berdasarkan lokasi.</br></br>
 <img width="400" alt="Screenshot 2024-07-25 at 13 38 20" src="https://github.com/user-attachments/assets/6ea88efc-8ad5-46e7-80a4-84797f15a941"> <img width="400" alt="Screenshot 2024-07-25 at 13 38 29" src="https://github.com/user-attachments/assets/8fd320c2-00e8-4fcd-8ba6-67eeca360c18">
-
 
 ## Xabiru
 Xabiru merupakan aplikasi konsultasi dan pembelajaran bagi orang tua yang memiliki anak berkebutuhan khusus.
